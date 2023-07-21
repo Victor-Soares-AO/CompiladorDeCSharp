@@ -1,6 +1,6 @@
 Manual do usuário
 
-###O que é um compilador?
+O que é um compilador?
 É um software responsável por traduzir um código-fonte escrito em uma linguagem de programação específica para uma forma que o computador possa entender e executar. Ele realiza uma série de etapas, desde a análise léxica e sintática até a geração de código executável. O resultado final é um programa compilado que pode ser executado em uma máquina ou ambiente específico.
 
 V-Sharp
