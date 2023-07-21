@@ -1,0 +1,16 @@
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\bin\Debug\netcoreapp3.1\CompiladorDeCSharp.exe
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\bin\Debug\netcoreapp3.1\CompiladorDeCSharp.deps.json
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\bin\Debug\netcoreapp3.1\CompiladorDeCSharp.runtimeconfig.json
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\bin\Debug\netcoreapp3.1\CompiladorDeCSharp.runtimeconfig.dev.json
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\bin\Debug\netcoreapp3.1\CompiladorDeCSharp.dll
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\bin\Debug\netcoreapp3.1\CompiladorDeCSharp.pdb
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\obj\Debug\netcoreapp3.1\CompiladorDeCSharp.csproj.AssemblyReference.cache
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\obj\Debug\netcoreapp3.1\CompiladorDeCSharp.Form1.resources
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\obj\Debug\netcoreapp3.1\CompiladorDeCSharp.csproj.GenerateResource.cache
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\obj\Debug\netcoreapp3.1\CompiladorDeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\obj\Debug\netcoreapp3.1\CompiladorDeCSharp.AssemblyInfoInputs.cache
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\obj\Debug\netcoreapp3.1\CompiladorDeCSharp.AssemblyInfo.cs
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\obj\Debug\netcoreapp3.1\CompiladorDeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\obj\Debug\netcoreapp3.1\CompiladorDeCSharp.dll
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\obj\Debug\netcoreapp3.1\CompiladorDeCSharp.pdb
+C:\Users\Gracy\Desktop\CompiladorDeCSharp\CompiladorDeCSharp\obj\Debug\netcoreapp3.1\CompiladorDeCSharp.genruntimeconfig.cache
